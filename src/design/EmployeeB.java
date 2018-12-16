@@ -1,7 +1,7 @@
-/*
+
 package design;
 
-import src.design.Employee;
+import design.Employee;
 
 public abstract class EmployeeB implements Employee {
 
@@ -49,4 +49,4 @@ public abstract class EmployeeB implements Employee {
 //        }
 //    };
 }
-*/
+
